@@ -36,3 +36,4 @@ nnoremap <C-n> :NERDTree<CR>
 nnoremap <C-t> :NERDTreeToggle<CR>
 nnoremap <C-f> :NERDTreeFind<CR>
 nmap <leader>t :tabnew<CR>
+nmap <leader>t :NERDTree<CR>
